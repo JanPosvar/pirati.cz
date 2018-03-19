@@ -14,7 +14,7 @@ mob:
 asistent:
   name: David Wagner
   mail: wagnerd@psp.cz
-  tel:  721 030 120
+  tel:  605 101 249
 profiles:
   github:       
   facebook:     https://www.facebook.com/karel.vosmera
