@@ -2,7 +2,7 @@
 data-version: 2
 uid: jan.posvar
 name:     Jan Pošvář  	# běžně používáné jméno
-fullname: Jan Pošvář  	# jméno s tituly etc.
+fullname: Bc. Jan Pošvář  	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - vys
 - psp
@@ -11,11 +11,10 @@ description: poslanec PSP PČR, předseda krajského sdružení Vysočina       
 direct-contact: true
 mail:
 - jan.posvar@pirati.cz
-mob:
+mob: 773 111 185
 asistenti:
-  - name: Miluše Kotišová
-    tel: 778 111 455
-    mail: milus.kotisova@pirati.cz
+  - name: Martin Huňady
+    tel: 732 251 216    
   - name: Ondřej Beníček
     tel: 777 814 824
     mail: beniceko@psp.cz
@@ -25,7 +24,7 @@ office:
 profiles:
   github:                 
   facebook: 		  https://www.facebook.com/ArAx666
-  twitter: 		  
+  twitter: 		   https://twitter.com/PosvarJan
   flickr:     		  https://www.flickr.com/search/?user_id=68741528%40N03&sort=date-taken-desc&text=jan%20po%C5%A1v%C3%A1%C5%99&view_all=1
 ordpsp: 10
 redmine: 219
@@ -34,12 +33,12 @@ calendar: 3jlgg8p8nnj3k6t1gduajv0m1g
 calendar: 3jlgg8p8nnj3k6t1gduajv0m1g
 ---
 
-Jan Pošvář (16. května 1985, Kamenice nad Lipou) je jedním z 22 pirátských poslanců zvolených do Poslanecké sněmovny Parlamentu České republiky. Je předseda vysočinského krajského sdružení. V současnosti se pohybuje mezi Prahou a Vysočinou.
-Je členem zemědělského, rozpočtového a volebního výboru. Ujal se dvou programových priorit z volebního programu: zrušení podpory biopaliv a zjednodušení zdanění.
-V rámci poslaneckého klubu odpovídá za technické zajištění komunikace s veřejností.
+Jan Pošvář (16. května 1985, Kamenice nad Lipou) je místopředsedou vysočinského krajského sdružení a poslanec za Vysočinu. V Poslanecké sněmovně je členem zemědělského, rozpočtového výboru, místopředseda podvýboru pro daně, cla a loterie a členem volební komise. 
 
-Studoval na Gymnáziu Pelhřimov a na Vysoké škole polytechnické v Jihlavě. Ještě během studií si našel práci jako programátor ve společnosti T-SOFT, a.s., kde se podílí na vývoji informačních systémů. Během svého života se učil i řemeslu svého otce a od června 2013 získal řemeslnou živnost – malířské a natěračské práce.
+Studoval na Gymnáziu Pelhřimov a na Vysoké škole polytechnické v Jihlavě. Poté pracoval jako programátor v pražské IT společnosti.
 
-Zajímá se o historii, přírodu, lidská práva, politiku, informační technologie a informační podporu krizového řízení. Ve volném čase programuje.  
+Od roku 2009 je členem Pirátské strany, od konce roku 2016 do poloviny roku 2018 byl předsedou krajského sdružení Vysočiny a v roce 2017 byl zvolen poslancem. 
 
+V současnosti žije v Havlíčkově Brodě. 
 
+Zajímá se o historii, přírodu, lidská práva, politiku, informační technologie a informační podporu krizového řízení. Ve volném čase programuje.
